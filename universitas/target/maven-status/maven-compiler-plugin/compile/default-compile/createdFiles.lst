@@ -1,0 +1,7 @@
+co\edu\poli\ces3\universitas\database\ConexionMySql.class
+co\edu\poli\ces3\universitas\database\CRUD.class
+co\edu\poli\ces3\universitas\servlets\MyServlet.class
+co\edu\poli\ces3\universitas\HelloServlet.class
+co\edu\poli\ces3\universitas\database\dao\User.class
+co\edu\poli\ces3\universitas\database\repositories\UserRepository.class
+co\edu\poli\ces3\universitas\servlets\UserServlet.class
